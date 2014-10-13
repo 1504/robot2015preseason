@@ -35,7 +35,7 @@ public class robot2015preseason extends SimpleRobot {
     /**
      * This function is called once each time the robot enters test mode.
      */
-    // This is a comment. #2//
+    // This is a comment guys. #2//
     public void test() {
     
     }
