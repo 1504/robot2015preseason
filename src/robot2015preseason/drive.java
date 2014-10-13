@@ -17,7 +17,8 @@ public class drive {
     private double front_right_val;
     private double back_right_val;
     
-    public drive() {
+    public drive() 
+    {
         front_left_val = 0;
         back_left_val = 0;
         front_right_val = 0;
