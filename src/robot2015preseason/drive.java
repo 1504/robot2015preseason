@@ -12,12 +12,13 @@ package robot2015preseason;
  */
 public class drive {
     
-    private double front_left_val;//Hello, this is a comment!
+    private double front_left_val;
     private double back_left_val;
     private double front_right_val;
     private double back_right_val;
     
-    public drive() {
+    public drive() 
+    {
         front_left_val = 0;
         back_left_val = 0;
         front_right_val = 0;
